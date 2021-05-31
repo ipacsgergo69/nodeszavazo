@@ -1,7 +1,21 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #6d5f5f;
+}
+
 form{
+    display: block;   
+    margin: auto 10vw;
     text-align: center;
     background-color: black;
-    color: white;
-    width: 40vw;
-    
+    color: orange; 
+    border: 100px;
+    border-radius: 3vw;
+    border-style: solid;
+    border-color: black; 
+}
+
+h1{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
